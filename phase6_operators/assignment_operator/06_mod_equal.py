@@ -1,0 +1,5 @@
+# Use %= to get remainder.
+
+a = 10
+a %= 3
+print(a)
